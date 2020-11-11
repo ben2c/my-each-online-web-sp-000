@@ -7,4 +7,5 @@ def my_each (array) # put argument(s) here
     arr.push(array[count])
     count += 1
   end
+  arr
 end
